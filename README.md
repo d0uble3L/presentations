@@ -4,7 +4,7 @@ This repository contains my past presentations, which I am sharing for public co
 
 ## Presentations
 
-* [Cloud Security Navigating the Security Challenges of Cloud Computing](./Cloud%20Security%20Navigating%20the%20Security%20Challenges%20of%20Cloud%20Computing.pdf) (CISO Chicago Summit - CDM Media - July 2023)
+* [Cloud Security Navigating the Security Challenges of Cloud Computing](./2023/Cloud%20Security%20Navigating%20the%20Security%20Challenges%20of%20Cloud%20Computing.pdf) (CISO Chicago Summit - CDM Media - July 2023)
 
 
 ## How to Use This Repository
