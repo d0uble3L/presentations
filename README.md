@@ -8,7 +8,7 @@ This repository contains my past presentations, which I share for public consump
 
 
 ### 2023
-* [Cloud Security Navigating the Security Challenges of Cloud Computing](./2023/CloudSecurity-CDMMedia-Chicago-2023.pdf) (CISO Chicago Summit - CDM Media - July 2023)
+* [Cloud Security: Navigating the Security Challenges of Cloud Computing](./2023/CloudSecurity-CDMMedia-Chicago-2023.pdf) (CISO Chicago Summit - CDM Media - July 2023)
 
 
 
