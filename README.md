@@ -1,10 +1,11 @@
 # My Presentation Repository
 
-This repository contains my past presentations, which I am sharing for public consumption and educational purposes.
+This repository contains my past presentations, which I share for public consumption and educational purposes.
 
 ## Presentations
 
-* [Cloud Security Navigating the Security Challenges of Cloud Computing](./2023/Cloud%20Security%20Navigating%20the%20Security%20Challenges%20of%20Cloud%20Computing.pdf) (CISO Chicago Summit - CDM Media - July 2023)
+* [Cloud Security Navigating the Security Challenges of Cloud Computing](./2023/CloudSecurity-CDMMedia-Chicago-2023.pdf) (CISO Chicago Summit - CDM Media - July 2023)
+* [Code, Commit, Secure: DevSecOps In Action](./2024/DevSecOps-TechEx-SantaClara-2024..pdf) (Cybersecurity & Cloud Congress - TechEx - June 2024)
 
 
 ## How to Use This Repository
